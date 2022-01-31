@@ -3,4 +3,4 @@ This data was acquired by the twitch API. The API allows you to get the current 
 
 ## Directory Graph 
 This is currently for the first day 1-31-22 of the twitch directory at (11:45AM EST, 10:45AM CST, 8:45AM PST)
-![day_one ViewCount](https://user-images.githubusercontent.com/88803320/151842918-73316434-8827-4edd-962a-fb24caf40070.png)
+![day_one ViewCount](https://user-images.githubusercontent.com/88803320/151845360-33f9e870-cccf-436d-b743-75467aeb831a.png)
