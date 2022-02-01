@@ -7,4 +7,4 @@ This is currently for the first day 01-31-22 of the twitch directory at (11:45AM
 
 
 Twitch directory comparison from 01-31-22 and 02-01-22 at (11:45AM EST, 10:45AM CST, 08:45AM PST)
-![day_two](https://user-images.githubusercontent.com/88803320/152014496-3b6694bf-8e4d-41db-a1d0-a714402c99ff.png)
+![day_two](https://user-images.githubusercontent.com/88803320/152016936-afa46a0d-ceb4-4c31-acc7-81ef7ac1c3f7.png)
