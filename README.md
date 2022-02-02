@@ -8,3 +8,6 @@ This is currently for the first day 01-31-22 of the twitch directory at (11:45AM
 
 Twitch directory comparison from 01-31-22 and 02-01-22 at (11:45AM EST, 10:45AM CST, 08:45AM PST)
 ![day_two](https://user-images.githubusercontent.com/88803320/152016936-afa46a0d-ceb4-4c31-acc7-81ef7ac1c3f7.png)
+
+Just chatting will most likely be the top directory every day as it is a universal category that streamers can go into regardless of what they are streaming. Over the three days, GTA V has declined each day. Most of the top streamers that do stream in this category don't stream until later in the afternoon. So, most of the time the viewership will be very low at 10:45 am. Leauge had a good spike for February 2nd, 2022 compared to past days. Most other categories stayed mostly consistent from all 3 days. Some categories that don't show a view count are due to that category going in and out of the top 10.
+![day_three](https://user-images.githubusercontent.com/88803320/152199209-46831579-c057-4671-b250-17710af0dbbb.png)
