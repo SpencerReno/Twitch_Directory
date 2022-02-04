@@ -23,3 +23,8 @@ Just chatting will most likely be the top directory every day as it is a univers
 
 February 3, 2022, is an interesting one as two directories come into play, and others lacking compared to previous days. There are many reasons why directory viewership changes like this on random days. For example, starting with Dying Light 2. This game just released today, and has drops currently active where viewers can get in-game rewards just by watching a streamer on twitch. This means that the viewership will be inflated for a few days while the drops are active. The other category that was added was Cities Skylines this one is a major outlier as its viewership is only inflated due to one streamer. xQcOW or Felix is one of the top streamers on the platform and his viewership alone can affect a directory to get into the top 10. At the current timestamp of 10:45 AM, he has 72,600 viewers alone. The directory for the game has 73,700. This equates to 98% of the viewers in the directory coming from his stream. CSGO had a big spike as well since there is an active tournament going on at the time of the API pull, And for the other directories most of them are within their usual viewership range. 
 ![day_Four](https://user-images.githubusercontent.com/88803320/152388688-c37b9699-b0f2-42d2-bfe7-48244ef8946a.png)
+
+
+Friday the 4th of Febuary most values for the viewer count are close to the same as yesterday only change was that cities skylines was not included today. As mentioned yesterday that was a major outlier as xQcOW caused to infalte that directory. 
+![day_five](https://user-images.githubusercontent.com/88803320/152580128-8cb35099-1705-4938-852b-b38632df089d.png)
+
