@@ -21,10 +21,9 @@ This Graph shows the max and average viewer counts based on each directory for w
 
 
 ## Week Two Day One
-![weekTwoDayone](https://user-images.githubusercontent.com/88803320/152729081-3b58a786-50bf-4e6f-80b7-aa399b0a5d6c.png)
+![weektwodaytwo](https://user-images.githubusercontent.com/88803320/152842028-3bda6d87-ec26-4818-84c9-656e29645f31.png)
 
 
 
 ## Week Two Summary
-![weektwosumma](https://user-images.githubusercontent.com/88803320/152729083-cfa46c5a-8d2c-473b-86bd-672a802dd24c.png)
-
+![weektwosumma](https://user-images.githubusercontent.com/88803320/152842082-95e86fe7-8656-4a4e-aef1-2688aef343e6.png)
