@@ -18,3 +18,13 @@ Just chatting will most likely be the top directory every day as it is a univers
 ## Week One Summary
 This Graph shows the max and average viewer counts based on each directory for week one of pulling data from the twitch api. Its clear of which directories are outliers as their max will be the same as their average view count. This means they were only in the top 10 directories for one day at 10:45am. Just Chatting was the leading directory mostly due to this being a universal directory that has a lot of different content within. Dying light 2 will mostlikly wont stay within the top 3 after a few weeks since it just released its viewership is slightly infated for the time being. 
 ![weekOneSummary](https://user-images.githubusercontent.com/88803320/152651182-60dbac99-7d3e-411b-835b-1c3903379411.png)
+
+
+## Week Two Day One
+![weekTwoDayone](https://user-images.githubusercontent.com/88803320/152729081-3b58a786-50bf-4e6f-80b7-aa399b0a5d6c.png)
+
+
+
+## Week Two Summary
+![weektwosumma](https://user-images.githubusercontent.com/88803320/152729083-cfa46c5a-8d2c-473b-86bd-672a802dd24c.png)
+
