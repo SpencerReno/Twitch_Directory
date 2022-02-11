@@ -10,7 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/153464025-8c10ed7c-c064-4940-9257-67dc173edb54.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/153637624-0511d591-0021-41b5-922b-4b61e7d99125.png)
 
 
 
@@ -25,9 +25,8 @@ This Graph shows the max and average viewer counts based on each directory for w
 
 
 ## Week Two by Directory
-![weektwodayfive](https://user-images.githubusercontent.com/88803320/153463977-dfd939de-8492-4982-96e9-41b614f46c60.png)
-
+![weektwodaysix](https://user-images.githubusercontent.com/88803320/153637596-66a8ac57-2ab6-4222-9c40-2e7aac0118b2.png)
 
 ## Week Two Summary
-![weektwosumma](https://user-images.githubusercontent.com/88803320/153463931-48934151-ef22-454d-a581-b61f0a911932.png)
+![weektwosumma](https://user-images.githubusercontent.com/88803320/153637565-0addc327-4680-46a8-ade4-69017b3dca9a.png)
 
