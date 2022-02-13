@@ -10,7 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/153637624-0511d591-0021-41b5-922b-4b61e7d99125.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/153741026-a3195ef2-f29d-4ad9-a13d-a9435a2bdd32.png)
 
 
 
@@ -25,8 +25,10 @@ This Graph shows the max and average viewer counts based on each directory for w
 
 
 ## Week Two by Directory
-![weektwodaysix](https://user-images.githubusercontent.com/88803320/153637596-66a8ac57-2ab6-4222-9c40-2e7aac0118b2.png)
+Week two finally shows some competition to just chatting. The release of Lost Ark in America, having drops and a very successful launch skyrocketed the viewership for this week. Most of the other directories lay within their respected location. For this week there weren't too many outliers only dying light 2, rust, slots, and sifu. Sifu had just been released at the beginning of the week this explains its spike and drop of viewers. Rust had drops early on in the week and slots just depend on who is live when the data is pulled. 
+![weektwodayseven](https://user-images.githubusercontent.com/88803320/153741041-dbec1b73-83b0-4887-a144-b7136d40c326.png)
 
 ## Week Two Summary
-![weektwosumma](https://user-images.githubusercontent.com/88803320/153637565-0addc327-4680-46a8-ade4-69017b3dca9a.png)
+Although lost ark made this week competitive in terms of trading top viewership with just chatting. Just chatting still came out on top with the highest viewer count of 652,093 viewers. Most directories stayed within the 100,000-200,000 for max viewers and slightly less for the averages.  
+![weektwosumma](https://user-images.githubusercontent.com/88803320/153741033-e6623afd-a70b-4965-a169-45f964810c70.png)
 
