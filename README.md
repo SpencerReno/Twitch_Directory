@@ -10,8 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/153741026-a3195ef2-f29d-4ad9-a13d-a9435a2bdd32.png)
-
+![Total all weeks](https://user-images.githubusercontent.com/88803320/153803518-1add65dc-dc13-4aa5-95c8-346018e427f3.png)
 
 
 ## Week One by Directory 
@@ -32,3 +31,12 @@ Week two finally shows some competition to just chatting. The release of Lost Ar
 Although lost ark made this week competitive in terms of trading top viewership with just chatting. Just chatting still came out on top with the highest viewer count of 652,093 viewers. Most directories stayed within the 100,000-200,000 for max viewers and slightly less for the averages.  
 ![weektwosumma](https://user-images.githubusercontent.com/88803320/153741033-e6623afd-a70b-4965-a169-45f964810c70.png)
 
+
+## Week Three by Directory 
+![weekThreeDay](https://user-images.githubusercontent.com/88803320/153803498-8003da2b-a32a-4d30-ba3c-6c917e6b44df.png)
+
+
+
+
+## Week Three Summary
+![weekThreeSumma](https://user-images.githubusercontent.com/88803320/153803439-2fc4ecd1-df33-4e23-ac93-facb2cbea7ab.png)
