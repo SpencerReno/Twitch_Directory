@@ -10,7 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/153914754-390ba1bd-10b8-4420-b3b4-69fcf04f992e.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/154125285-324ff67a-c2d2-4ca8-933a-be8a422dd10f.png)
 
 ## Week One by Directory 
 Just chatting will most likely be the top directory every day as it is a universal category that streamers can go into regardless of what they are streaming. February 3, 2022, is an interesting one as two directories come into play, and others lacking compared to previous days. There are many reasons why directory viewership changes like this on random days. For example, starting with Dying Light 2. This game just released on Febuary 3rd, and it has drops currently active where viewers can get in-game rewards just by watching a streamer on twitch. This means that the viewership will be inflated for a few days while the drops are active. The other category that was added was Cities Skylines this one is a major outlier as its viewership is only inflated due to one streamer. xQcOW or Felix is one of the top streamers on the platform and his viewership alone can affect a directory to get into the top 10. At the current timestamp of 10:45 AM, he has 72,600 viewers alone. The directory for the game has 73,700. This equates to 98% of the viewers in the directory coming from his stream. 
@@ -32,9 +32,8 @@ Although lost ark made this week competitive in terms of trading top viewership 
 
 
 ## Week Three by Directory 
-![weekThreeDay](https://user-images.githubusercontent.com/88803320/153914758-bda2c043-642b-4f19-ab1f-be62f868e67d.png)
-
+![weekThreeDay](https://user-images.githubusercontent.com/88803320/154125343-b37a9d46-13ed-4b1e-9002-c29b3426b1bb.png)
 
 
 ## Week Three Summary
-![weekThreeSumma](https://user-images.githubusercontent.com/88803320/153914761-8d60176c-76b9-47ff-a8a8-dd5398d92217.png)
+![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154125345-70fd96f1-59b2-4750-bc89-ef32cef02d5a.png)
