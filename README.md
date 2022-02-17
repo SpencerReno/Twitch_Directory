@@ -37,3 +37,4 @@ Although lost ark made this week competitive in terms of trading top viewership 
 
 ## Week Three Summary
 ![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154531242-bb5a26ef-b334-40f7-9f05-fc126a1e5d11.png)
+
