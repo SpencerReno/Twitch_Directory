@@ -10,7 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/154391136-b41b9966-1036-4a91-9a98-a31574e9eaaa.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/154531244-9454e435-0be6-4218-ac11-4c196a13b231.png)
 
 
 ## Week One by Directory 
@@ -33,8 +33,7 @@ Although lost ark made this week competitive in terms of trading top viewership 
 
 
 ## Week Three by Directory 
-![weekThreeDay](https://user-images.githubusercontent.com/88803320/154391166-5d7f1c23-3ead-4be7-9dac-8213c564cd6c.png)
-
+![weekThreeDay](https://user-images.githubusercontent.com/88803320/154531239-70ffc6ad-bc65-466e-96ac-3dbe60e6b853.png)
 
 ## Week Three Summary
-![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154391155-4d70dbdc-ff6d-423d-8a2f-07afd6aa088b.png)
+![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154531242-bb5a26ef-b334-40f7-9f05-fc126a1e5d11.png)
