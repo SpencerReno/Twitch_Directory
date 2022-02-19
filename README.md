@@ -10,7 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/154531244-9454e435-0be6-4218-ac11-4c196a13b231.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/154818269-4a10ff84-88e4-427a-a7f8-e0268e67295a.png)
 
 
 
@@ -34,10 +34,11 @@ Although lost ark made this week competitive in terms of trading top viewership 
 
 
 ## Week Three by Directory 
-![weekThreeDay](https://user-images.githubusercontent.com/88803320/154531239-70ffc6ad-bc65-466e-96ac-3dbe60e6b853.png)
+This week seen a lot of back and forth with Lost ark and Just chatting. At the begining of the week lost ark started very strong and slowly declined as the week progressed. Just chatting stayed very consistant within the 500-600 thousand range. This week had a total of eight outliers with games that showed up for two or less of the seven days. These directories being Dota 2, Minecraft, Slots, Warzone, Dead by Daylight, Horizon Forbiden West, Mario Kart, and Elden Ring. 
+![weekThreeDay](https://user-images.githubusercontent.com/88803320/154818265-86664a8c-c938-4599-9448-7ace676d0ad6.png)
 
 
 
 ## Week Three Summary
-![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154531242-bb5a26ef-b334-40f7-9f05-fc126a1e5d11.png)
-
+Just chatting managed to stay just ahead of lost ark this week. However, the max viewers almost broke into the 700,000 range for lost ark. This week also seen a lot of outliers compared to other weeks. 
+![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154818337-86e4147e-ddde-43c6-bc81-12d246a92c8a.png)
