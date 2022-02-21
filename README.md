@@ -10,8 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/154818269-4a10ff84-88e4-427a-a7f8-e0268e67295a.png)
-
+![Total all weeks](https://user-images.githubusercontent.com/88803320/154999305-bc45c0af-aa09-4e83-b881-687b16de5a5a.png)
 
 
 ## Week One by Directory 
@@ -42,3 +41,12 @@ This week seen a lot of back and forth with Lost ark and Just chatting. At the b
 ## Week Three Summary
 Just chatting managed to stay just ahead of lost ark this week. However, the max viewers almost broke into the 700,000 range for lost ark. This week also seen a lot of outliers compared to other weeks. 
 ![weekThreeSumma](https://user-images.githubusercontent.com/88803320/154818337-86e4147e-ddde-43c6-bc81-12d246a92c8a.png)
+
+
+
+## Week Four by Directory 
+![weekFourDay](https://user-images.githubusercontent.com/88803320/154999329-50dd30fd-9329-450d-9946-66cc6bdb6903.png)
+
+
+## Week Four Summary 
+![WeekFourSumma](https://user-images.githubusercontent.com/88803320/154999320-86f58156-68f6-4ee6-b551-661f8e42460a.png)
