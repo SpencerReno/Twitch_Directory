@@ -10,7 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/155850228-080966c6-c2e2-4423-b7b6-545659d9acb8.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/155851667-d08a13cb-b419-42b1-945a-cf15df7f391d.png)
 
 
 ## Week One by Directory 
@@ -45,10 +45,8 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 
 ## Week Four by Directory 
-![weekFourDay](https://user-images.githubusercontent.com/88803320/155850232-d69a0744-047d-477b-801e-c02d6b60162f.png)
-
+![weekFourDay](https://user-images.githubusercontent.com/88803320/155851664-4592ddab-97d7-497e-b1e4-e6cc072d39ac.png)
 
 
 ## Week Four Summary 
-![WeekFourSumma](https://user-images.githubusercontent.com/88803320/155850234-ddb98db9-c2f2-4a6f-b148-64483b903f43.png)
-
+![WeekFourSumma](https://user-images.githubusercontent.com/88803320/155851665-f2e7c989-1aa9-42b8-ae4b-250517936a86.png)
