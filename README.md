@@ -10,8 +10,7 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/155892961-5c4c6b19-163a-4742-bbef-0f4cc8709cb6.png)
-
+![Total all weeks](https://user-images.githubusercontent.com/88803320/156107557-a6b35f31-73ac-4f8e-bbd0-0ee36872095e.png)
 
 ## Week One by Directory 
 Just chatting will most likely be the top directory every day as it is a universal category that streamers can go into regardless of what they are streaming. February 3, 2022, is an interesting one as two directories come into play, and others lacking compared to previous days. There are many reasons why directory viewership changes like this on random days. For example, starting with Dying Light 2. This game just released on Febuary 3rd, and it has drops currently active where viewers can get in-game rewards just by watching a streamer on twitch. This means that the viewership will be inflated for a few days while the drops are active. The other category that was added was Cities Skylines this one is a major outlier as its viewership is only inflated due to one streamer. xQcOW or Felix is one of the top streamers on the platform and his viewership alone can affect a directory to get into the top 10. At the current timestamp of 10:45 AM, he has 72,600 viewers alone. The directory for the game has 73,700. This equates to 98% of the viewers in the directory coming from his stream. 
@@ -50,3 +49,12 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 ## Week Four Summary 
 ![WeekFourSumma](https://user-images.githubusercontent.com/88803320/155892960-6db443e5-2f41-4802-9b0a-1809122398a5.png)
+
+
+## Week Five Directory 
+![weekfiveday](https://user-images.githubusercontent.com/88803320/156107572-35952748-9c68-4e58-8d4d-966d950e9888.png)
+
+
+
+## Week Five Summary
+![weeekfivesumma](https://user-images.githubusercontent.com/88803320/156107571-5fbe89b9-6d50-4669-a21e-0bf603a39bd9.png)
