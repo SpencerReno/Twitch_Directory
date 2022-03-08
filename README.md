@@ -9,6 +9,17 @@ Top Games API: https://dev.twitch.tv/docs/api/reference#get-top-games
 
 Get Streams API: https://dev.twitch.tv/docs/api/reference#get-streams
 
+# Predictions
+After a full 5 weeks of pulling data, and gathering 300+ rows of data. Running some machine learning models still shows that more data needs to be gathered for the models to be more precise. I ran three different regression models to compare from decision Tree, Kneighbors, and random forest. Decision Tree had the best scores but still not where I'd like them to be. The training score was 71. While the testing score was 56. These both could further improve over time once more data is gathered.
+
+Decision Tree Model
+
+Train: 0.7111598069381483
+
+Test: 0.5662584827145769
+
+
+
 ## Summary For all Dates
 ![Total all weeks](https://user-images.githubusercontent.com/88803320/157082503-a44eaed2-5c58-405c-94e2-c570629158d4.png)
 
