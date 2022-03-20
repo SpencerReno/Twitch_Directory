@@ -19,7 +19,7 @@ Test: 0.5662584827145769
 
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/158930569-0ec64d72-d845-4ea6-8654-b1c0231091bd.png)
+![Total all weeks](https://user-images.githubusercontent.com/88803320/159190246-c10ae48a-5541-4a8f-9535-080a8ba40e88.png)
 
 
 
@@ -86,8 +86,9 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 # Week Seven 
 ## Individual Directories
-![weeksevenday](https://user-images.githubusercontent.com/88803320/158930565-fde1a58f-5adc-4d37-bed8-30e892e9e5bc.png)
+![weeksevenday](https://user-images.githubusercontent.com/88803320/159190244-587400c3-9a24-4bdc-996d-afb1e244dd8f.png)
+
 
 
 ## Week Seven Summary
-![weeksevensuma](https://user-images.githubusercontent.com/88803320/158930567-1831029f-3c1a-4c3d-9c02-b790b43e64ef.png)
+![weeksevensuma](https://user-images.githubusercontent.com/88803320/159190245-38bccdcc-e2fc-468b-acea-3680c2bb1695.png)
