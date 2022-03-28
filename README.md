@@ -19,7 +19,7 @@ Test: 0.5662584827145769
 
 
 ## Summary For all Dates
-![Total all weeks](https://user-images.githubusercontent.com/88803320/160289791-557fda0a-7677-4f01-9c44-a9e9b9ea0005.png)
+![Total all weeks](D:\Data_Science_Documents\Twitch_Directory\graphs\Total_all_weeks.png)
 
 # Week One
 ## Individual Directories
@@ -106,10 +106,10 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 # Week Nine
 ## Individual Directories
-![weekNineDay](https://user-images.githubusercontent.com/88803320/160289865-21a1c3f2-409c-44cc-aa0e-b20abcfd292d.png)
+![weekNineDay](D:\Data_Science_Documents\Twitch_Directory\graphs\WeekNineDay.png)
 
 
 
 ## Week Nine Summary
-![weeekninesumma](https://user-images.githubusercontent.com/88803320/160289863-21d75d1b-07b1-49fa-89ea-537befd8ce48.png)
+![weeekninesumma](D:\Data_Science_Documents\Twitch_Directory\graphs\WeekNineSumma.png)
 
