@@ -19,7 +19,9 @@ Test: 0.5662584827145769
 
 
 ## Summary For all Dates
-![Total_all_weeks](https://i.gyazo.com/814457488a334888d2ae02da870c2156.png)
+![Total_all_weeks](https://i.gyazo.com/85761c3e88b29f8c07e111bd598a8bff.png)
+
+
 
 # Week One
 ## Individual Directories
@@ -102,8 +104,6 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 ![weekeightsumma](https://user-images.githubusercontent.com/88803320/160289793-d5c59a89-039e-43d5-9414-bbd1f2a5fffb.png)
 
 
-
-
 # Week Nine
 ## Individual Directories
 ![Day](https://i.gyazo.com/201046f2e870698e90cd7ef7f89619c0.png)
@@ -116,7 +116,19 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 # Week Ten
 ## Individual Directories
-![Day](https://i.gyazo.com/6b0e6429eab1d93694b5e4eee24199ba.png)
+![Day](https://i.gyazo.com/869f48b69dda8e7dc3b1a0f157614357.png)
 
 ## Week Ten Summary
-![summa](https://i.gyazo.com/b69038015e2e71b46e2169f0c9652572.png)
+![summa](https://i.gyazo.com/2f1fe2270c796944b30efbcc0c316dcd.png)
+
+
+# Week Eleven
+## Individual Directories
+![Day](https://i.gyazo.com/d59ffc3e3536ffe4be5330496f3152b1.png)
+
+## Week Eleven Summary
+![summa](https://i.gyazo.com/dda61935c4c50cbc980beaca1b00bf44.png)
+
+
+
+
