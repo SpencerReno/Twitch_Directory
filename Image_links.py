@@ -40,12 +40,13 @@ def read_ReadMe():
     readme_lines = read_me_file.readlines()
 
 
-    readme_lines[21] = f'![Total_all_weeks]({total_link})'
+    readme_lines[21] = f'![Total_all_weeks]({total_link})\n'
 
-    readme_lines[-5] = f'![Day]({day_link})'
+    readme_lines[-4] = f'![Day]({day_link})\n'
 
-    readme_lines[-1] = f'![summa]({summa_link})'
-    print(readme_lines)
+    readme_lines[-1] = f'![summa]({summa_link})\n'
+
+
     read_me_file = open('D:\Data_Science_Documents\Twitch_Directory\README.md', 'w')
     read_me_file.writelines(readme_lines)
 
