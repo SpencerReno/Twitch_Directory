@@ -21,7 +21,6 @@ Test: 0.5662584827145769
 ## Summary For all Dates
 ![Total_all_weeks](https://i.gyazo.com/e06464842fe8d97e00832eb78004ae0b.png)
 
-
 # Week One
 ## Individual Directories
 Just chatting will most likely be the top directory every day as it is a universal category that streamers can go into regardless of what they are streaming. February 3, 2022, is an interesting one as two directories come into play, and others lacking compared to previous days. There are many reasons why directory viewership changes like this on random days. For example, starting with Dying Light 2. This game just released on Febuary 3rd, and it has drops currently active where viewers can get in-game rewards just by watching a streamer on twitch. This means that the viewership will be inflated for a few days while the drops are active. The other category that was added was Cities Skylines this one is a major outlier as its viewership is only inflated due to one streamer. xQcOW or Felix is one of the top streamers on the platform and his viewership alone can affect a directory to get into the top 10. At the current timestamp of 10:45 AM, he has 72,600 viewers alone. The directory for the game has 73,700. This equates to 98% of the viewers in the directory coming from his stream. 
