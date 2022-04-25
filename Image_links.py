@@ -1,7 +1,7 @@
 from gyazo import Api
 from keys import gyazo_access
 
-week_num = 12
+week_num = 13
 
 def upload_Total():
     client = Api(access_token=gyazo_access)
@@ -14,7 +14,7 @@ def upload_Total():
 
 def upload_summa():
     client = Api(access_token=gyazo_access)
-
+    
     with open(f'D:\Data_Science_Documents\Twitch_Directory\graphs\Week{week_num}Summa.png', 'rb') as f:
         image = client.upload_image(f)
         summa_url = image.to_json()
