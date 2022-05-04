@@ -131,7 +131,7 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 # Week Twelve
 ## Individual Directories
-![Day](https://i.gyazo.com/08c77b48a5e3cef9895a53db7a3602ee.png)
+![Day](https://i.gyazo.com/8d9348ac5a51cb8a88c55c0412cb3e92.png)
 
 ## Week Twelve Summary
-![summa](https://i.gyazo.com/e6d9f2ff0c65ae55e215fa7a0e509bdc.png)
+![summa](https://i.gyazo.com/0ecf2a42ebaabe39264c8a6e3107c5b2.png)
