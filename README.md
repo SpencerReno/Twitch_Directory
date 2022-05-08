@@ -19,7 +19,7 @@ Test: 0.5662584827145769
 
 
 ## Summary For all Dates
-![Total_all_weeks](https://i.gyazo.com/fb11eae5b637bed0332f46f9cfcc983b.png)
+![Total_all_weeks](https://i.gyazo.com/9976d99b66acbbd7bb8bd60c6d3eb8fc.png)
 
 # Week One
 ## Individual Directories
@@ -131,7 +131,7 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 # Week Twelve
 ## Individual Directories
-![Day](https://i.gyazo.com/d78091d79b9d7506ffa972bb005eb864.png)
+![Day](https://i.gyazo.com/99a27240a54c5c9d3f92f6c82d9163a5.png)
 
 ## Week Twelve Summary
-![summa](https://i.gyazo.com/08d7318186709b4d0f477dad8e825636.png)
+![summa](https://i.gyazo.com/e98df84694b556b2d57f21d8c70f56dc.png)
