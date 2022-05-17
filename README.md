@@ -19,7 +19,7 @@ Test: 0.5662584827145769
 
 
 ## Summary For all Dates
-![Total_all_weeks](https://i.gyazo.com/1c3fad9414c7d495397a9e8072362296.png)
+![Total_all_weeks](https://i.gyazo.com/2d620ded0bb421e6344465fdf376c97e.png)
 
 # Week One
 ## Individual Directories
