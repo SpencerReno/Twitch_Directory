@@ -154,7 +154,7 @@ Just chatting managed to stay just ahead of lost ark this week. However, the max
 
 
 # Week Fifteen
-![Day](https://i.gyazo.com/d0589f368ea5529b85cdf77a4ba6fede.png)
+![Day](https://i.gyazo.com/2d2db09c1015e57254f839a33516a218.png)
 
 ## Week Fifteen Summary
-![summa](https://i.gyazo.com/4747c99ca0600aa12d086bc763dc5e4d.png)
+![summa](https://i.gyazo.com/da246950f41f3b37b52e356338c195e9.png)
