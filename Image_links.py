@@ -1,7 +1,7 @@
 from gyazo import Api
 from keys import gyazo_access
 
-week_num = 15
+week_num = 16
 
 def upload_Total():
     client = Api(access_token=gyazo_access)
