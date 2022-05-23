@@ -16,10 +16,19 @@ Decision Tree Model\
 Train: 0.7111598069381483\
 Test: 0.5662584827145769
 
+#### Prediction Test Two 
+The first time I pulled predictions was 5 weeks into this project. It's now been tripple that time now being on the 15th week. I've ran the predictions file once again to see if there would be any change with the predictions models. Without changing any of the models parameters most of the results were consistant with the first test. However, they all did increase in their own respective ways. For exaple the final model that I chose to show the scores for in test one was a default Decision Tree model. This model ran now has an increased Training score 0.72 and the Testing score from a 0.56 to a 0.63. An Increase in the Testing scores are what im really looking for. This is a good increase for a defualt model with no parameters. Still no the best but seeing the imporvement shows that the more data gathered the higher the scores get. At this rate its rougly +5 score on the testing data per rougly 7 weeks.
+
+
+Decision Tree Model\
+Train: 0.7247906637597405\
+Test: 0.6349583075382321
+
 
 
 ## Summary For all Dates
 ![Total_all_weeks](https://i.gyazo.com/3cd7b3b37c296864e1dddf72c848d6d6.png)
+
 
 # Week One
 ## Individual Directories
