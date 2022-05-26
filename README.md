@@ -29,11 +29,13 @@ Test: 0.6349583075382321
 # View Count Based On Months
 Feb has the most viewers by 30,000 this is interesting as this could be related to many reasons. February also has two 
 fewer days that are being taken into account. The most likely reason is since Feb is still considered the winter a lot more people stay inside. March is the start of spring the fewer people are staying in and watching twitch. However, the argument for this is that the data was pulled at 10:45 am central. Meaning a lot of people would be in school or work and not viewing twitch. I think seeing what was being viewed in these months might depict this and give us a clearer answer. 
+
 ![Viewer_count](https://i.gyazo.com/300bbef82c6c6e754c298ecf3f31c38a.png)
 
 ## Directory Viewership For February - April
 Now, this graph gives us a clear understanding of why February viewership was so high compared to March and April. 
 In February two highly anticipated games were released and had some insane viewership within the first few weeks. These games being Elden Ring and Lost Ark. In the following month of March both of these directories fell off more than half of their peak viewership in February. This is very typical for twitch as games release they gain an initial boost and decline at extreme rates as people get over the release hype.
+
 ![Viewership_feb-apr](https://i.gyazo.com/1c44d4d134f4bb01ee379eef9e64b4b6.png)
 
 
