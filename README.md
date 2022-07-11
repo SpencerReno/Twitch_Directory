@@ -46,9 +46,9 @@ In February two highly anticipated games were released and had some insane viewe
 
 
 ## Week Fourteen
-![Day](https://i.gyazo.com/d0589f368ea5529b85cdf77a4ba6fede.png)
+![Day](https://i.gyazo.com/99a27240a54c5c9d3f92f6c82d9163a5.png)
 
 ## Week Fourteen Summary
-![summa](https://i.gyazo.com/4747c99ca0600aa12d086bc763dc5e4d.png)
+![summa](https://i.gyazo.com/e98df84694b556b2d57f21d8c70f56dc.png)
 
 
